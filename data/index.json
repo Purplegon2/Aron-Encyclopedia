@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "slug": "home",
+      "title": "Home",
+      "type": "meta",
+      "tags": ["home"],
+      "aliases": []
+    },
+    {
+      "slug": "planet-aron",
+      "title": "Aron (planet)",
+      "type": "meta",
+      "tags": ["planet","aron"],
+      "aliases": []
+    }
+  ]
+}
