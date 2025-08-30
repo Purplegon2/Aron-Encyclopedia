@@ -7,7 +7,7 @@
   "infobox": {
     "template": "infobox-planet",
     "image": "data/sprites/article-planet-aron/aron.png",
-    "caption": "A global projection of the planet Aron",
+    "caption": "A black and white map of Aron (White being land, black being water.)",
     "fields": {
       "Equatorial Diameter": "≈ 13,200 km",
       "Mass": "Similar to Earth",
