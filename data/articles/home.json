@@ -5,6 +5,6 @@
   "updated": "2025-08-29",
   "body": [
     {"p": "Welcome. Use the search bar or the left navigation."},
-    {"p": "Try [[slug:planet-aron|Aron]]."}
+    {"p": "Try [[slug:test|Test]]."}
   ]
 }
