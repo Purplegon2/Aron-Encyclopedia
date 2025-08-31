@@ -8,10 +8,10 @@
       "aliases": []
     },
     {
-      "slug": "planet-aron",
-      "title": "Aron (planet)",
+      "slug": "test",
+      "title": "Test",
       "type": "meta",
-      "tags": ["planet","aron"],
+      "tags": ["test"],
       "aliases": []
     }
   ]
