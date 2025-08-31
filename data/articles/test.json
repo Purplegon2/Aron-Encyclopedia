@@ -18,7 +18,7 @@
       "template": "infobox-planet",
       "image": "data/sprites/article-planet-aron/tectonic-plateaus.png",
       "caption": "Tectonic plateaus on Aron"
-    },
+    }
   ],
   "body": [
     {"h2": "Overview"},
