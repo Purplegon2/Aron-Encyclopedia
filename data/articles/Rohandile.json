@@ -1,0 +1,149 @@
+{
+  "slug": "nation-rohandile",
+  "title": "Rohandile",
+  "type": "nation",
+  "tags": ["nation","country","rohandile","rohan","orange"],
+  "updated": "2025-08-31",
+  "infobox": {
+    "template": "infobox-nation",
+    "image": "data/sprites/article-nation-rohandile/flag.png",
+    "caption": "Flag of Rohandile",
+    "fields": {
+      "Population": "167.65 Million USD",
+      "Population Density": "45.68 people/KM²",
+      "Location": "South Rohkree Ocean",
+      "Capital City": "Smithston",
+      "Size": "3.67 Million KM²",
+      "Average Lifespan": "73 years",
+      "National Language": "Kifahse",
+      "GDP": "4.13 Trillion USD",
+      "GYB": "1.23 Trillion USD",
+      "GDP per capita": "24,634.655 USD",
+      "National Debt": "2.763 Trillion USD",
+      "Leader": "[no direct leader]",
+      "Government Type": "Representative Congressional Republic",
+      "Economic System": "Resource-based Mutualism",
+      "Date of Founding": "April 9th, 1813",
+      "Note": "Major exporter of military goods."
+    }
+  },
+  "infoboxes": [
+    {
+      "header": "Government and Politics",
+      "template": "infobox-nation",
+      "image": "data/sprites/article-nation-rohandile/location.png",
+      "caption": "Rohandile Mainland"
+    }
+  ],
+  "body": [
+    {"h2": "Overview"},
+    {"p": "Rohandile was founded on April 9th, 1813 when King Kamali III of Oytaria stepped down as ruler of the Empire, and the government was changed to a congressional democracy."},
+    {"p": "The nation of Rohandile is considered a mainly military country, accounting for at least 30% of the world’s warfare trade economy, only being held back by the fact that they are an island nation, not obligating them to innovate with tanks. Aside from the military focus, industry is a main moneymaker and assistance within the country, especially with companies like Wherechester Steel & Oil being so prominent around the lands, and how necessary it is for the stability of Rohandile. The quaint, temperate climate in the islands allow for there to be no dry spots, leading to its high population density. The islands are located within the Magrat ocean current, giving Rohandile a large variety of fish and sealife to have access to."},
+    {"h2": "Rohandile Government"},
+    {"p": "The Rohandile democratic government consists of five separate congress branches, each having 8 members and a prime member that each can be re-elected every 3 years in office, with no term limits. These branches are Monetary, Military, Magistration, Social Welfare, and Infrastructure."},
+    {"h3": "Monetary"},
+    {"p": "The Rohandile Monetary branch manages the overall economy of Rohandile, keeping it stable by also managing how much money is being printed. This branch also manages financial related policies, taxation, and overall budgeting. The headquarters of the Monetary branch is located in the capitol city of Smithston, Rohandile."},
+    {"ul":[
+        "Prime Member: Daniel Hargrave",
+        "Emma Mitchell",
+        "Raj Patel",
+        "Sophia Nguyen",
+        "Carlos Ramirez",
+        "Hana Kimaria",
+        "Marie Dubois",
+        "Ahmed Hassan",
+        "Lucia Moretti"
+    ]},
+    {"h3": "Military"},
+    {"p": "The Rohandile Military branch oversees national defense, overall military operations, and national security. The branch has the ability to declare war and deploy military troops on the agreement of the congressmen within such. The main military base of operations is hosted on the coast east of the city of Abrico, Rohandile."},
+    {"ul":[
+        "Prime Member: General Robert Langford",
+        "Michael Thompson",
+        "Sarah Bailey",
+        "Akira Tanaka",
+        "Juan Rodriguez",
+        "Amara Singh",
+        "Victor Petrov",
+        "Nadia Ivanova",
+        "Thomas Moe"
+    ]},
+    {"h3": "Magistration"},
+    {"p": "The Rohandile Magistration branch handles judicial court matters, law enforcement, and legal policies. The congressmen of this branch will be the main contributors to the creation of new laws within Rohandile. The main judicial and legislative buildings of the branch are located in the capitol city of Smithston, Rohandile."},
+    {"ul":[
+        "Prime Member: Chief Justice Olivia Mercer",
+        "Benjamin Cohen",
+        "Liam Wills",
+        "Anna Stephenson",
+        "Gabriel Santos",
+        "Fredrick Mansour",
+        "Elena Dimitrov",
+        "Marco Rossi",
+        "Ingrid Jensen"
+    ]},
+    {"h3": "Social Welfare"},
+    {"p": "The Social Welfare branch of Rohandile focuses on social policies, and manages education, housing, and the welfare state. This branch of government is mainly responsible for hearing the community and population of the nation’s voice, and putting that into their voice. The main headquarters of the Welfare branch is located in Sangle City, Rohandile for being a good, central location to address population needs."},
+    {"ul":[
+        "Prime Member: Dr. Aaron Tompson",
+        "Laura Adams",
+        "Ravi Kumar",
+        "Katerina Popov",
+        "Miguel Hernandez",
+        "Emily Smith",
+        "Charles Okohotin",
+        "Erin Walsh",
+        "Maria Fernandez"
+    ]},
+    {"h3": "Infrastructure"},
+    {"p": "The Infrastructure branch of Rohandile manages urban and rural infrastructure, including transportation and communication. The branch also handles the energy output of the country, along with its environmental policies. The branch handles trading between foreign countries, and controls most ports across the country. The central location for the Infrastructure branch is located in Pufibland, Rohandile, for easy foreign access."},
+    {"ul":[
+        "Prime Member: James Walker",
+        "Linda Thompson",
+        "Corey Fornan",
+        "Rafael Martinez",
+        "Julia Lopez",
+        "David Jayson",
+        "Eleni Papadopoulos",
+        "Hassan Rahman",
+        "Emma White"
+    ]},
+    {"h2": "Rohandile War Machines"},
+    {"h3": "Aircraft"},
+    {"p": "Naming convention: RF-Fighters, RB-Bombers, RR-Reconnaissance, RT-Transport. Versions are all multiplied by tens."},
+    {"ul":[
+        "RB-210 Lobber: The RB-210 Lobber is a bomber plane that is specifically designed to do as much damage to any grounded target as possible. The Lobber carries 20 Lobbant bombs, with the plane set up to specifically drop those types of bombs. Because of its size, it is able to carry 5 Enterprise 4000 bombs. It is also equipped with 30 sets of flares for any guided missile attacks, along with a 12mm machine gun. The RB-210 will fly about 15000 meters above sea level, and will often fly in groups of two or three to bomb specified target locations. The Lobber loads in the bombs completely automatically, only taking about twelve seconds to reload for another drop of a Lobbant. Due to its limited combat capacity, the RB-210 has heavy armor plating to prevent bombs exploding from outside attack, along with radar warning receivers to tell it of any incoming radar signals that would reveal its location. Once all Lobbant ammo has been spent, the RB-210 will be able to fly at up to mach 0.9 back to a base to restock.",
+        "RB-335 Emancipator: The RB-335 Emancipator is a fourth generation dive bomber plane that’s operational speed is mach 1-1.8, along with being able to drop bombs while still traveling at mach 1. The plane’s structure and components are more similar to a jet plane, hence it being able to fly at such high speeds. The Emancipator will dive down to 700 meters above an area to bombard. It carries 5 missile blocking nodes on each wing and two slightly larger nodes mounted on the cockpit, two 18mm autocannons, 10 Valkyrie hypersonic missiles for both bombing and air fights, and lastly, 3 Enterprise 4000 bombs for high value and emergency use. The RB-335 usually wouldn’t fly in a formation due to how fast the bombings would happen. However, the Emancipator would usually be followed by more of the same plane, taking slightly different routes to bomb different targets. The Emancipator is usually launched from carrier ships to bomb coastal targets or opposing naval targets as well. /n The “previous” design being the RB-330 Emancipator was introduced after 3 years of testing in 2007, but was then quickly recalled from usage due to an unforeseen design flaw. The flaw was that the oxygen compartment would leak while flying at around mach 0.49 for a continued 12 seconds. This was somehow never seen in testing due to the leaking going unnoticed at this lower speed, because anytime it would fly that slow, the pilot would not need much oxygen. The value was also extremely specific for a speed for the tank to leak, along with needing the speed to be kept. It was lucky this was uncovered so early in the Emancipator’s lifetime, otherwise it may have caused the death of pilots using it. After the issue was fixed, the new version was called the RB-335 due to an extensive change needing to be made to fix the flaw; it needed a new number to be documented. Only 7 original RB-330 Emancipators remain in existence today, as the minimal amount that were produced were upgraded to 335.",
+        "RF-280 Inquisitive: The RF-280 Inquisitive is a fighter jet designed for air to air and air to water combat situations. The Inquisitive has two missile launchers, one using Valkyrie rockets, and the other using PAPAYA missiles. They carry 5 of each. These missiles are the main attacking force that the RF-280 will use against opposing ships and planes, but atop each missile launcher is a 10mm machine gun that converges 100 meters ahead. It is also equipped with advanced avionics, having secure protection against enemy EW jamming attacks. The Inquisitive is able to fly comfortably at mach 2, and would usually fly in a three triangle formation after being launched from a carrier ship, and quickly pulls out backward after firing their missiles.",
+        "RF-250 Scarlet: The RF-250 Scarlet is designed to be a direct upgrade to the UFSL’s previous generation AF-19 Sabre. The Scarlet is outfitted with the regular 25 flares, along with 8 of each standardized missiles and bombs, with half being the new PAPAYA missiles and Lobbant bombs that the old Sabre was not able to carry. The 16mm cannons on the sides have been upgraded to 18mm, and they now shoot straight forward due to the rarity of dogfights in the current age. The engine is now a fourth generation engine, rarely needing to go back for fuel before running out of ammo. Instead of the redundant heat resistant paneling that the Sabre had, the Scarlet uses 1.5x thickness of the normal aluminum plating in order to prevent the mass amount of ammo from exploding and destroying the plane from simple machine gun fire. The RF-250 still does prefer to stay at mach 1.4, as going at the speeds that this newer design can handle would cause its longevity purposes to be redundant.",
+        "RF-350 Mudskipper: The RF-350 Mudskipper is the most advanced plane that Rohandile has ever developed. The aircraft is built with reduced radar cross-section to increase its stealth capacity. The Mudskipper has a maximum operational speed of about mach 2.5, but usually stays at around mach 1 or lower while flying low for attacks for safety. The RF-350 is equipped with 6 PAPAYA missiles and 10 H.T.P.M. missiles, along with 2 Enterprise 4000 bombs for finishing off ships or large groups of enemy targets. The Mudskipper fittingly flies low down to the water or low down towards the ground, and fires the H.T.P.M. missiles or others before banking upward and away, quickly leaving the site while the targets are severely weakened or destroyed. The Mudskipper is also equipped with jamming pods, so that on that drive-by, it can also disrupt enemy radar and communication systems. If the Mudskipper is caught by an enemy plane or turrets, it has 15 sets of flares using the last of the plane’s capacities, and can use the PAPAYA missiles as defense, but its superior speed to most fourth gen fighters usually enables it to escape from the fight unscathed. The plane is usually supplemented by other Mudskippers or RF-250 Scarlets.",
+        "RR-315 Bankcrent: The RR-315 Bankcrent is a scouting plane designed to get in and out, taking in information without being noticed. The Bankcrent is fitted with screen panels that will automatically configure to the background of the night or day, flying up to 10 km above so that it cannot be noticed by sight. The panels are also made up of copper and aluminum to absorb radar waves. The RR-315 uses ESM systems to analyze enemy ship or infantry positioning, along with enemy radar and communication systems. The plane carries 30 flares and a small 8mm machine gun for protection. The Bankcrent is also equipped with radar warning receivers, which will notify it of any incoming radar signals, and act accordingly. With the height and composition of the plane, it is able to travel operationally at mach 0.6-1.2.",
+        "RT-130 Chinook Advanced: The RT-130 Chinook Advanced, more referred to as the ChA, is designed to transport infantry ground units, but is not limited to that function. The ChA is able to carry 30 infantry units, and carry 1500 kg of extra ammunition to supply grounded units with, including Encarie SPEAR rocket launchers for infantry to use. The Chinook is able to defend itself with 6 PAPAYA missiles and 4 Valkyrie missiles, along with a 12mm machine gun mounted at the front. The ChA is built with heavy steel armor to protect its payload. To use up the extra weight that the RT-130 can carry, either a wheeled artillery gun or machine gun can be loaded and easily dropped into the battlefield through the back hatch."
+    ]},
+    {"h3": "Warships"},
+    {"p": "Naming convention: RBB-Battleships, RLD-Destroyers, RSC-Cruisers, RCC-Carrier, RFR-Frigate, RCV-Corvette, RSM-Submarines. Ships are represented as classes."},
+    {"ul":[
+        "RSC-Class 12 Intrepid: The RSC Intrepid is 200 meters in length, and can travel at over 35 knots. The cruiser has six Antaren APDS-3 missile launchers on the vertices, and four CAPDS systems hosted at the front and back of the ship. The front hosts a 200mm cannon, and each side carries a Tri-Tartarus turret, both for disposing of coastal targets and damaging long distance opposing naval targets. The Intrepid carries 8 torpedoes, and has six 40mm autocannons stationed along the edges for defense. There are also six composite 12mm mounted machine guns for small boat defense, along with two dual PAPAYA or H.T.P.M. missile launchers on each side. The Intrepid hosts copper plating around the significant electronics in order to prevent EW systems from disrupting them.",
+        "RLD-Class 22 Torpedo-Reaper: The RLD Torpedo-Reaper is 150 meters long, and can travel at over 30 knots. The destroyer has seven PAPAYA missile launchers to defend against aerial missile attacks, and four 120mm cannons hosted on all sides. The Torpedo-Reaper uses passive hydrophones - 8 placed around the ship - to detect incoming submarine targets. The ship uses depth charges launchers against submarines, in which 6 are placed on the edges, each sided by MK-22 Gatling Guns designed by Atlas Industries. There are also eight 12mm mounted machine guns stationed around the ship for defense, and an Antaren APDS-3 system centrally located for balanced defense. It is equipped with EW jamming systems to ensure that enemies are unable to use their radar effectively, along with the destroyer having highly effective radar surveillance systems of their own. Lastly, to live up to its name, the Torpedo-Reaper carries 16 torpedoes specifically designed for ASW, with 4 loaded into each tube as per Rohandile custom.",
+        "RCV-Class 8 Swiftree: The RCV Swiftree measures in at 120 meters long, and can travel at up to 45 knots speed. Due to corvettes being smaller, the Swiftree is only able to have 4 regular APDS-3 systems at the front and back, along with one AMDS system in the center. There are six MK-22 gatling guns, going on all vertices, and each of the corners hosts a cheaper, dual PAPAYA or H.T.P.M. missile launcher to defend against other ships, along with six 10mm mounted machine guns. It also uses copper plating around the significant electronics in order to prevent EW systems from disrupting them and the ship as a whole, with a CAPDS system centrally located for balanced defense. The Swiftree however, only hosts 6 torpedoes for use due to its smaller stature.",
+        "RFR-Class 17 Sentinel: The RFR Sentinel is 140 meters in length, and can travel at over 30 knots. The Sentinel is firstly equipped with high tech sonar detection that can detect a plane, ship, submarine, or any other body up to 2000 meters away. This system is protected with rubber and copper plating to defend against EW attacks, along with the system being able to electronically jam other ships systems from that range. The ship is protected by six CAPDS systems, with one on front and back and two on each side, and four Antaren Slingshot Defense systems on the front and back, sided each by cannons that fire PAPAYA missiles. The ship also carries six composite 10mm mounted machine guns for small boat defense. Lastly, the Sentinel carries 12 torpedoes, specifically designed for ASW, with five total torpedo tubes.",
+        "RCC-Class 9 Endeavor: The RCC Endeavor is 420 meters long, and can travel at over 30 knots. The carrier is used in all around missions, used in full naval combat mainly, and is the most commonly used for that endeavor. The ship is designed to be able to carry 20 RF-350 Mudskippers, 24 RF-280 Inquisitives, 20 RF-250 Scarlets, 8 RB-355 Emancipators, 4 RR-315 Bankcrents, and 4 RT-130 Chinook Advanceds. The Endeavor hosts 2 CAPDS systems, one at front, one at back, along with two of both APDS-3 systems and PAPAYA missile launchers stationed on the sides and the flight deck respectively. Lastly, the Endeavor has 2 40mm autocannons on the sides, and 2 ASW submarine tubes on each side.",
+        "RCC-Class 10 Vanguard: The RCC Vanguard measures at 350 meters long, traveling at over 30 knots. This carrier tis designed for coastal support, sending planes for grounded combat missions not in Rohandile territory. The Vanguard is designed to host 12 RF-350 Mudskippers, 18 RF-280 Inquisitives, 16 RF-250 Scarlets, 8 RB-335 Emancipators, 4 RR-315 Bankcrents, and 2 RT-310 Chinook Advances. The Vanguard carries 2 CAPDS systems, one on the forward section, and one on the aft section, and 2 APDS-3 systems hosted on the sides of the ship, sided each by one PAPAYA missile launcher. The Vanguard also carries a Tri-Tartarus Turret on the flight deck, and an Antaren Slingshot Defense system on the aft section of the flight deck. Lastly, the ship has 2 40mm autocannons, 4 12mm machine guns, and 2 ASW torpedo tubes on each side.",
+        "RSM-Class 27 Shadow: The RSM Shadow submarine is 165 meters long and can travel at over 35 knots. The sub is equipped with 6 torpedo tubes at the bow, capable of launching both anti-ship and ASW torpedoes, along with 2 VLS cells that are able to fire PAPAYA missiles. The shadow carries decoy launchers in order to defend against incoming torpedoes, along with using ECM systems to detect and counteract enemy sensors and jammers that may be sent its way. The submarine also has a very powerful sonar and radar system for the long-range detection of opposing underwater threats or surface ships. The Shadow has 4 30mm autocannons mounted on retractable platforms for defense against small boats and other surface threats. The hull of the sub is constructed using anechoic coating and materials made to minimize its sound signature. Lastly, the Shadow uses nuclear propulsion to power itself, allowing it to remain submerged and unseen for longer periods of time."
+    ]},
+    {"h3": "Warships"},
+    {"p": "Naming conventions: T-Heavy Tank, S-Medium Tank, F-Light Tank, Y-Anti Infantry, M-Tank Destroyers, H-Hybrid “Tank”. Versions are represented by single numbers."},
+    {"h3": "Ammunition"},
+    {"ul":[
+        "The PAPAYA missile is an extremely proficient rocket that heat-seeks targets at high speeds, and in an instant explodes and destroys an enemy aircraft. The PAPAYA missile can be used from ground to air stationary turrets or air to air from specialized launchers that shoot the missile. The missile is packaged within an aluminum casing, and is propelled by propane tanks inside the cylinder that activate as soon as the rocket is in the air. The speed added from a plane’s inertia or any turret’s propellant is easily able to cross the speed limit of mach 2 that would allow the picratol explosives to explode on impact with any high speed aircraft. Within the missile is an automatic heat seeking system that will change the rocket’s direction in order to catch its target or keep it in the air. /n P. Propane /n A. Activated /n P. Picratol /n A. Automatic /n Y. Yaw /n A. Anti-Air /n Missile",
+        "The H.T.P.M. is a missile designed to destroy high armor targets like tanks or ships, and is usually hosted on the fastest planes to get the job done quickly. After being fired - assuming the launch was made with some sort of inertia or extra propulsion of at least mach 2 - the H.P.M. will quickly accelerate to mach 4, causing its frontal to collapse, releasing 20 extremely hot titanium rods loaded each with 10 kg of gunpowder. Shortly after either slicing completely through an armor plate or getting wedged inside of a thicker one, each of the rods explode, causing damage and hopefully killing crew members due to shrapnel. The rods will be angled inside the missile to cover an area evenly and to cause as much damage as possible. /n H. Heated /n T. Titanium /n P. Penetration /n M. Missile",
+        "The Lobbant bomb is ammunition used by bombers that is extremely aerodynamic and designed to do as much damage to a target as possible. The bomb is 30 cm in diameter and carries 800 kg of gunpowder. The bomb, upon being dropped out of a bottom chamber of a plane, will ignite the propane propellant at the back of the shell. This causes the bomb to descend at an increased speed, and the angled construction of the Lobbant will cause it to automatically angle towards the ground. The bomb’s exterior is intentionally constructed with weak materials so that the speed gained upon ignition and descent will cause its front to be penetrated by the ground, activating the impact mechanism inside, and detonating the bomb. The weak materials also cause the explosion force of the gunpowder to be higher, as it needs to break through less containment. However, those materials make it easier to shoot down out of the sky, by triggering the impact mechanism early, but the high descent speed of the bomb will render this near impossible.",
+        "The Enterprise 4000 is a heavy bomb that is dropped on high value targets or used when the plane is inevitably going down to do some damage. The Enterprise is half a meter in diameter, and is loaded with 1500 kg of gunpowder. The bomb is usually not in high capacity within planes due to its size and use as a more emergency secondary bomb.",
+        "The Tri-Tartarus turret is a triple barrel missile launcher that can consecutively shoot from surface to surface from long distances with high precision. The turret is mostly hosted on cruisers or corvettes, but is able to be used as land close defense systems as well. The cruise missiles fly using a simple jet engine that is activated on launch command, being driven along a short tunnel to gain speed, and then staying in the air aerodynamically while traveling at mach 3 before reaching their ground target up to 800 miles away. The missiles have a guidance system that allows them to keep their precision even when flying at a target hundreds of miles away. Each cruise rocket can be quickly reloaded, and with the three barrels for it to shoot with, the Tri-Tartarus should never be left dry shooting."
+    ]}
+  ],
+  "see_also": [
+    "home"
+  ],
+  "references": [
+    "Aron Document (encyclopedia of Aron, planetary timeline, biological history, nations, and conflicts)."
+  ]
+}
